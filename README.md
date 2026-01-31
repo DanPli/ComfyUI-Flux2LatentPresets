@@ -49,7 +49,7 @@ After restarting, you’ll find the node under:
 Add Node → Flux 2 → Latents → Flux 2 Empty Latent Presets
 ```
 
-## 🛠 Node Outputs
+## Node Outputs
 
 * **LATENT** — empty latent tensor
 * **Width** — pixel width
