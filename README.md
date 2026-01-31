@@ -66,7 +66,7 @@ The latent is created with shape:
 ## Notes
 
 * MP labels are informational only; ComfyUI uses pixel dimensions
-* The 400² pixel preset is intended for **draft / ideation**
+* The 400² pixel preset is mentioned as the safe minimum by BFL and good for **draft / ideation**
 * Higher MP presets require significantly more VRAM
 
 ---
